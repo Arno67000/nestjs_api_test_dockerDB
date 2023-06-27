@@ -1,6 +1,6 @@
 ## Description
 
-A basic API to test Nest framework. E2E testing with pactum. Running with Docker and docker-compose for databases (1for production and 1 for e2e tests)
+A basic API to test Nest framework. PRISMA . E2E testing with Pactum. Running with Docker and docker-compose for databases (1for production and 1 for e2e tests)
 
 ## Installation
 
